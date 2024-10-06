@@ -1,7 +1,8 @@
 This is a simple weather app built using Node.js, Express, EJS, Axios and the OpenWeatherMap API. 
 The app allows users to enter a city name and get the current weather information for that location.
 
-![Project Demo](\assets\WeatherApp.gif)
+![WeatherApp](https://github.com/user-attachments/assets/43e39f6e-e193-4406-941c-629e2ff7307d)
+
 
 
 ## Installation
